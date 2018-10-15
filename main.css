@@ -1,0 +1,50 @@
+
+#gameTitle{
+  font-family: 'Gloria Hallelujah', cursive;
+  text-align: center;
+  color: #f2f2f2;
+}
+
+#subTitle{
+  font-family: 'Gloria Hallelujah', cursive;
+  text-align: center;
+  color: #f2f2f2;
+}
+
+#backgroundImage{
+  background-image: url("https://images.pexels.com/photos/920534/pexels-photo-920534.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350");
+}
+
+.gameTable{
+  height: 560px;
+}
+
+table{
+  background-color: white;
+  width: 500px;
+  height: 500px;
+  border-color: black;
+  border-width: thick;
+  padding-bottom: 10px
+}
+
+td{
+  border: thick solid black;
+  width: 166px;
+  height: 166px
+}
+table.center{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: auto;
+    margin-bottom: 10px
+  }
+.wrapper{
+  text-align: center;
+  height: 45px;
+}
+
+#startGameButton{
+  margin-bottom: 30px;
+
+}
